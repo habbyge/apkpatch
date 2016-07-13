@@ -4,3 +4,6 @@
 err: Display the current errno information string and exit;
 errx: Display an error message and exit;
 所以，我们可以把对应到的地方替换成 printf 和 exit 两个函数组合;
+
+
+更多关于 APPPatch 的内容，参考 https://github.com/cundong/SmartAppUpdates
